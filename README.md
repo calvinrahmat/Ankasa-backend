@@ -1,15 +1,11 @@
-<h1 align="center">
-  Backend Ticketing
-</h1>
-
-<p align="center"><img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg" width="500px" alt="Arkademylogo.svg" /></p>
+<p align="center"><img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631588597/Ankasa/Logo_Ankasa_cm4gp9.svg" width="200px" alt="Arkademylogo.svg" /></p>
 
 <p align="center">
-    <a href="https://www.arkademy.com/" target="blank">Our Website</a>
-    ·
-    <a href="https://www.arkademy.com/auth/signup">Join With Us</a>
-    ·
+    <a href="https://ankasa.online/" target="blank">View Demo</a>
+  · <a href="https://github.com/Gustiana882/front-ticketing/issues">Report Bug</a>
+  · <a href="https://github.com/Gustiana882/front-ticketing/pulls">Request Feature</a>
 </p>
+<hr/>
 
 ## Clone the repository
 
